@@ -1,0 +1,22 @@
+{
+    "name": "will/digital-cep",
+    "description": "Busca de cep online",
+    "type": "libary",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Will\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "will",
+            "email": "willamssouza917@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
