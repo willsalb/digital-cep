@@ -1,6 +1,6 @@
 <?php
 
-namespace will\DigitalCep;
+namespace willGragam\DigitalCep;
 
 class Search
 {

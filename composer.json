@@ -1,5 +1,5 @@
 {
-    "name": "will/digital-cep",
+    "name": "willgraham/digital-cep",
     "description": "Busca de cep online",
     "type": "libary",
     "autoload": {

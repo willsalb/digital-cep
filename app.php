@@ -3,7 +3,7 @@
 require_once "vendor/autoload.php";
 require "src/Search.php";
 
-use will\DigitalCep\Search;
+use willGragam\DigitalCep\Search;
 
 $busca = new Search;
 
