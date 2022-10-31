@@ -4,7 +4,7 @@ namespace willGragam\DigitalCep;
 
 class Search
 {
-  private $url = 'https://viacep.com.br/ws/';
+  private $_url = 'https://viacep.com.br/ws/';
 
   public function getAddressFromZipcode(string $zipCode): array
   {
